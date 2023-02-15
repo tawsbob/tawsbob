@@ -8,6 +8,16 @@ As an accomplished software engineer, I've not only built great products but als
 
 Feel free to contact me.
 
+```javascript
+//by running this scrit you will get my email
+(() => {
+    const c = [100,101,108,108,101,97,110,46,115,97,110,116,111,115,64,103,109,97,105,108,46,99,111,109];
+    console.log(
+        c.reduce((a, b) => a += String.fromCharCode(b), '')
+    )
+})();
+````
+
 🇧🇷 Dont Tread On Me 🐍
 Buy Bitcoin while you can
 
