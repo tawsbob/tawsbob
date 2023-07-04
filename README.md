@@ -8,7 +8,7 @@ Aside from my technical prowess, I have made a significant impact in the educati
 
 Currently, I am working with clients in the American market, showcasing my adaptability and dedication to providing exceptional services to a diverse range of clientele. As an experienced software engineer with a strong background in frontend development, a passion for education, and a proven track record of delivering results, I am confident in my ability to make a significant contribution to any organization.
 
-Feel free to contact me
+Feel free to contact me, [check my own company website](https://visionarylabs.pro/)
 
 ### My Email
 
