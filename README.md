@@ -2,8 +2,6 @@
 
 Principal Software Engineer with deep expertise in building and maintaining SaaS platforms using React, Node.js, and microservices architecture. Proficient in designing RESTful APIs, integrating relational and non-relational databases, and orchestrating robust CI/CD pipelines to ensure code quality and rapid delivery. Adept at delivering scalable, high-performance solutions while leading cross-functional teams to champion best practices and drive innovation. Proven track record of architecting end-to-end systems that prioritize reliability, security, and seamless user experiences.
 
-Let me transform your business vision into a high profitable software. Hacking since 2004.
-
 Feel free to contact me.
 
 ### My Email
