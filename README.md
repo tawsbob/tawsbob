@@ -1,18 +1,10 @@
 ## Hello everyone 👋
 
-My name is Dellean Santos, and I am an innovative software engineer with a lifelong passion for programming that began at the age of 14. After earning a degree in Graphic Design, I discovered my natural talent for frontend development during an internship, and I have since cultivated a successful career in software engineering.
+Principal Software Engineer with deep expertise in building and maintaining SaaS platforms using React, Node.js, and microservices architecture. Proficient in designing RESTful APIs, integrating relational and non-relational databases, and orchestrating robust CI/CD pipelines to ensure code quality and rapid delivery. Adept at delivering scalable, high-performance solutions while leading cross-functional teams to champion best practices and drive innovation. Proven track record of architecting end-to-end systems that prioritize reliability, security, and seamless user experiences.
 
-With over a decade of experience in the industry, I have developed strong technical expertise in Node.js for backend development and React.js and Next.js for frontend projects. In addition, I am proficient in microservices, DevOps, CI/CD, and other cutting-edge technologies, demonstrating my commitment to staying current in the ever-evolving tech landscape.
+Let me transform your business vision into a high profitable software. Hacking since 2004.
 
-Aside from my technical prowess, I have made a significant impact in the educational sector in Brazil. I have not only taught programming skills to more than 700 students, but I have also empowered them with the knowledge and strategies necessary to thrive in the competitive technology job market. This experience has allowed me to refine my communication, leadership, and mentoring skills, which I believe are essential for fostering collaboration and driving success in any team environment.
-
-Currently, I am working with clients in the American market, showcasing my adaptability and dedication to providing exceptional services to a diverse range of clientele. As an experienced software engineer with a strong background in frontend development, a passion for education, and a proven track record of delivering results, I am confident in my ability to make a significant contribution to any organization.
-
-Feel free to contact me, [check out my own company website](https://visionarylabs.pro/)
-
-[Check out My SAAS](https://calculesimples.com.br/)
-
-[Check out My Scheduler App](https://www.nahora.app/)
+Feel free to contact me.
 
 ### My Email
 
