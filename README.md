@@ -1,19 +1,8 @@
 ## Hello everyone 👋
 
-Principal Software Engineer with deep expertise in building and maintaining SaaS platforms using React, Node.js, and microservices architecture. Proficient in designing RESTful APIs, integrating relational and non-relational databases, and orchestrating robust CI/CD pipelines to ensure code quality and rapid delivery. Adept at delivering scalable, high-performance solutions while leading cross-functional teams to champion best practices and drive innovation. Proven track record of architecting end-to-end systems that prioritize reliability, security, and seamless user experiences.
+Principal Software Engineer specialized in designing and scaling SaaS platforms with React, Node.js, and microservice architectures. Expert in building resilient REST APIs, integrating relational and NoSQL databases, and automating delivery through efficient CI/CD pipelines. Focused on performance, reliability, and clean architecture. Leads engineering teams with precision and pragmatism, enforcing best practices and technical excellence. Proven ability to architect secure, maintainable, and high-impact systems that deliver real value to users and businesses.
 
 Feel free to contact me.
-
-### My Email
-
-```javascript
-(() => {
-    const c = [100,101,108,108,101,97,110,46,115,97,110,116,111,115,64,103,109,97,105,108,46,99,111,109];
-    console.log(
-        c.reduce((a, b) => a += String.fromCharCode(b), '')
-    )
-})();
-````
 
 🇧🇷 Dont Tread On Me 🐍
 
