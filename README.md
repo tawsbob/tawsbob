@@ -15,13 +15,6 @@ Feel free to contact me.
 })();
 ````
 
-### My Phone Number
-
-```javascript
-atob('KzU1MjE5OTUxMDE5OTA=')
-```
-
-
 🇧🇷 Dont Tread On Me 🐍
 
 Buy Bitcoin while you can
