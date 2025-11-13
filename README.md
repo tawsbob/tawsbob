@@ -8,16 +8,6 @@ Feel free to contact me.
 
 Buy Bitcoin while you can
 
-Take care!
-
-```
-Overload
-
-Every scratch just reminds me of what I’m trying to conceal. The more I fix it, the more it looks worn.  
-I can’t be an angel with this rusted halo. Bleach-stained fingers can’t erase the shadow.  
-If I’m counting by the scars, then let scars show. Hey, I’m human — I’m broken, but I won’t let go… I won’t let go!
-
-I’m alive, still worth my soul.
-```
+If I’m counting by the scars, then let scars show... Take care!
 
 0x00F01
