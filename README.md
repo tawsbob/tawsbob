@@ -4,7 +4,7 @@ Principal Software Engineer specialized in designing and scaling SaaS platforms.
 
 Feel free to contact me (Get straight to the point, I don't have time to waste).
 
-🇧🇷 Dont Tread On Me 🐍
+🇺🇸 🇵🇾 🇧🇷 Don't Tread On Me 🐍
 
 Buy Bitcoin while you can
 
