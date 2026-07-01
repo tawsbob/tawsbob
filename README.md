@@ -3,6 +3,8 @@ Software Engineer focused on building and scaling SaaS products. Experienced lea
 
 Feel free to contact me (Get straight to the point, I don't have time to waste).
 
+For more info [here is](https://tawsbob.github.io/) my resume.
+
   🇺🇸 🇵🇾 🇧🇷 🇨🇳  
 
 Don't Tread On Me 🐍
